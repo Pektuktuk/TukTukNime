@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TukTukNime", "TukTukNime\TukTukNime.csproj", "{C4FA8046-7F2F-4C49-A1C4-F735D3AE4318}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Base", "01.Base\01.Base.csproj", "{B036CBCC-34E4-4B00-BC5E-11179DF17D4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C4FA8046-7F2F-4C49-A1C4-F735D3AE4318}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4FA8046-7F2F-4C49-A1C4-F735D3AE4318}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4FA8046-7F2F-4C49-A1C4-F735D3AE4318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B036CBCC-34E4-4B00-BC5E-11179DF17D4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B036CBCC-34E4-4B00-BC5E-11179DF17D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B036CBCC-34E4-4B00-BC5E-11179DF17D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B036CBCC-34E4-4B00-BC5E-11179DF17D4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
