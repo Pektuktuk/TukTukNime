@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TukTukNime", "TukTukNime\Tu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Base", "01.Base\01.Base.csproj", "{B036CBCC-34E4-4B00-BC5E-11179DF17D4C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KancollTuk", "KancollTuk\KancollTuk.csproj", "{14E24779-2E14-49DD-A70C-B7AB1D01CB7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B036CBCC-34E4-4B00-BC5E-11179DF17D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B036CBCC-34E4-4B00-BC5E-11179DF17D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B036CBCC-34E4-4B00-BC5E-11179DF17D4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14E24779-2E14-49DD-A70C-B7AB1D01CB7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14E24779-2E14-49DD-A70C-B7AB1D01CB7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14E24779-2E14-49DD-A70C-B7AB1D01CB7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14E24779-2E14-49DD-A70C-B7AB1D01CB7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
