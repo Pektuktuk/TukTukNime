@@ -1,0 +1,35 @@
+﻿/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+@media (min-width: 768px) {
+    .navbar.fixed-left {
+        bottom: 0;
+        flex-flow: column nowrap;
+        align-items: flex-start;
+        right:auto !important;
+    }
+}
+
+.navbar.fixed-left {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1030;
+}
+
+.navbar-dark {
+    color: #f8f9fa;
+    background-color: #343a40;
+}

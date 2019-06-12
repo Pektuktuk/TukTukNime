@@ -1,0 +1,2 @@
+﻿ViewBag.Title --> Cambiar la etiquet que sale en favoritos
+Clase active para marcar la opción del menu en la que estas

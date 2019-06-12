@@ -1,0 +1,10 @@
+﻿?	Hacer un conversor de moneda con el Yen para que sepas cuanto te puede costar comprar algo ahora mismo en el Kancolle
+
+
+
+
+
+?	Posible
+-	Aprobado
++	En curso
+X	Terminado
