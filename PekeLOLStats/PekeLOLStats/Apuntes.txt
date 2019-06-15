@@ -1,5 +1,21 @@
-﻿Empezar vista index que tendrá 4 áreas principales que mostrarán las ultimas partidas los campeones con mas % victorias los personajes mas usados y los personajes más divertidos
-Probar a conectar la API del LOL
+﻿Probar a conectar la API del LOL
+Diseñar BBDD según lo que devuelven las apis de lol
 
-ViewBag.Title --> Cambiar la etiquet que sale en favoritos
+
+Hacer filtro por posición en los paneles winrate divertidos jugados y baneados
+
+
+Hacer un login en un modal para cargar un usuario en la vista 
+Ocultar últimas partidas si no estas logueado
+
+
+
+
+
+
+
+
+V2.0 Añadir un chat para que puedas buscar a gente añadirla de amigos y hablar con ellos
+
+ViewBag.Title --> Cambiar la etiqueta que sale en favoritos
 Clase active para marcar la opción del menu en la que estas

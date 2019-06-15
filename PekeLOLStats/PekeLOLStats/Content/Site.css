@@ -78,4 +78,12 @@ textarea {
     border: 2px solid #28a745;
     border-radius: 0.4rem;
     background-color: #666;
+    margin: 0px 0px 10px 0px;
+    padding: 0px;
+    justify-content: space-between;
+}
+
+h2 {
+    color: #ddd;
+    text-align: center;
 }
