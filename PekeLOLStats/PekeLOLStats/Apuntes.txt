@@ -1,2 +1,5 @@
-﻿ViewBag.Title --> Cambiar la etiquet que sale en favoritos
+﻿Empezar vista index que tendrá 4 áreas principales que mostrarán las ultimas partidas los campeones con mas % victorias los personajes mas usados y los personajes más divertidos
+Probar a conectar la API del LOL
+
+ViewBag.Title --> Cambiar la etiquet que sale en favoritos
 Clase active para marcar la opción del menu en la que estas

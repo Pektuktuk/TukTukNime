@@ -17,7 +17,7 @@ textarea {
         bottom: 0;
         flex-flow: column nowrap;
         align-items: flex-start;
-        right:auto !important;
+        width: 295px;
     }
 }
 
@@ -32,4 +32,50 @@ textarea {
 .navbar-dark {
     color: #f8f9fa;
     background-color: #343a40;
+}
+
+@media (min-width: 768px) {
+    .collapse:not(.show) {
+        display: inline-block !important;
+    }
+}
+
+@media (min-width: 768px) {
+    .navbar-toggler {
+        display: none;
+    }
+}
+
+.navbar-nav .nav-link {
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+}
+
+.mt-2, .my-2 {
+    margin-top: 0 !important;
+}
+
+.navbar-nav .dropdown-menu {
+    position: static !important;
+    margin-bottom: 0.5rem;
+}
+
+@media (min-width: 768px) {
+    .body-content {
+        margin-top: 10px !important;
+        margin-left: 310px !important;
+        margin-right: 15px !important;
+    }
+}
+
+.body-content {
+    margin-top: 65px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.main-panel {
+    border: 2px solid #28a745;
+    border-radius: 0.4rem;
+    background-color: #666;
 }
